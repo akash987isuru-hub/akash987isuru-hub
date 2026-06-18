@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an aspiring Software Engineering undergraduate from Sri Lanka with a strong interest in web development, software development, database systems, and system analysis.
+I am an aspiring Software Engineering undergraduate from Sri Lanka with a strong interest in web development, mobile development, software development, database systems, and system analysis.
 
 I am currently improving my skills through academic projects, personal projects, and continuous learning. I enjoy building practical systems that solve real-world problems.
 
