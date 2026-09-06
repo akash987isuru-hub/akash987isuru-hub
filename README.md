@@ -313,7 +313,7 @@ A personal portfolio website created to showcase my **technical skills, educatio
 
 <p align="center">
   <img
-    src="./assets/isuru-space-shooter.gif"
+    src="./isuru-space-shooter.gif"
     alt="Isuru Akash Space Shooter Contribution Animation"
     width="100%"
   />
